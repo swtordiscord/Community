@@ -1,4 +1,4 @@
-# RE-88 on the SWTOR Discord!
+# SWTOR Discord Community
 
 
-RE-88's community repository for [issue](https://github.com/TheMrT3ddy/RE-88Community/issues) tracking and [wiki](https://github.com/TheMrT3ddy/RE-88Community/wiki)!
+The community repository for [issue](https://github.com/TheMrT3ddy/RE-88Community/issues) tracking and [wiki](https://github.com/TheMrT3ddy/RE-88Community/wiki)!
